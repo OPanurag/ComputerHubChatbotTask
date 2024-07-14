@@ -20,4 +20,4 @@
 
       1. app.py: Main script to run the Streamlit app.
       2. requirements.txt: List of required Python libraries.
-      3. description.pdf: A PDF document describing the approach, tools used, challenges faced, and future scope.
+      3. Description.pdf: A PDF document describing the approach, tools used, challenges faced, and future scope.
